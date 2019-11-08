@@ -7,7 +7,7 @@ a = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
 print('Middle two:', a[3:5])
 print('All but ends:', a[1:7])
 
-# Ceci est byte
+# Ceci est byte parce qu'il est prefixé par la lettre b
 b = b'h\x65llo'
 print(list(b))
 print(b)
